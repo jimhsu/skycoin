@@ -73,7 +73,7 @@
         "pack-mac": "build --dir -m -p=never"
     },
     "devDependencies": {
-        "electron": "^1.8.0",
+        "electron": "^9.4.0",
         "electron-builder": "^19.55.0"
     },
     "dependencies": {
